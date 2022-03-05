@@ -1,3 +1,3 @@
-# js coderepo
-doodles code repo
+# priavte coderepo
+private code repo
 https://felixoofed.github.io/doodles
